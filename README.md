@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yojitacharya
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: go away
 
